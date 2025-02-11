@@ -1,0 +1,6 @@
+mkdir social-media-planner
+cd social-media-planner
+mkdir frontend backend 
+cd frontend
+npx create-react-app .
+npm install @mui/material @emotion/react @emotion/styled axios date-fns react-big-calendar 
